@@ -94,7 +94,7 @@
     <div class="collapse navbar-collapse">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item"><a href="#recipes" class="nav-link">Recipes</a></li>
-        <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
+        <li class="nav-item"><a href="#contact" class="nav-link">Contact Us</a></li>
       </ul>
     </div>
   </div>
@@ -157,7 +157,7 @@
 </section>
 
 <footer>
-  &copy; <?= date('Y') ?> TastyBites | Made with ❤️ for foodies
+  &copy; <?= date('Y') ?> TastyBites-Atul Adhikari | Made with ❤️ for foodies
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
